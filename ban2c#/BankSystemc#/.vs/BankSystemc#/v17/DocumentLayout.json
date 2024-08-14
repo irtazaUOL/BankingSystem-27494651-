@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ban2c#\\BankSystemc#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\onetps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\onetps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\accountcreeate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\accountcreeate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\pyment method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\pyment method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|d:\\ban2c#\\banksystemc#\\banksystemc#\\onetps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79FF891-486F-43E0-AD57-0CF688189A96}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\onetps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Login.Designer.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Login.Designer.cs*",
+              "RelativeToolTip": "BankSystemc#\\Login.Designer.cs*",
+              "ViewState": "AQIAAIIAAAAAAAAAAAArwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:21:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Update.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Update.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Update.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:20:51.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Delete.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Delete.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Delete.cs",
+              "RelativeToolTip": "BankSystemc#\\Delete.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAADwv6cAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:19:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "service.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\service.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\service.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\service.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\service.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:00:33.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pyment method.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\pyment method.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\pyment method.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\pyment method.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\pyment method.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:59:24.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountCreeate.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\AccountCreeate.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\AccountCreeate.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\AccountCreeate.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\AccountCreeate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:05:57.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Program.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Program.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Program.cs",
+              "RelativeToolTip": "BankSystemc#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:13:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ONEtps.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\ONEtps.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\ONEtps.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\ONEtps.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\ONEtps.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:13:33.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Login.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Login.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Login.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:13:29.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Update.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Update.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Update.cs",
+              "RelativeToolTip": "BankSystemc#\\Update.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAswNAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:10:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Homepage.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Homepage.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Homepage.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:56:18.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Delete.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Delete.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Delete.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:53:13.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\MainWindow.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\MainWindow.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\MainWindow.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:58:34.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "service.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\service.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\service.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\service.cs",
+              "RelativeToolTip": "BankSystemc#\\service.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAADwv4kAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:59:44.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Homepage.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Homepage.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Homepage.cs",
+              "RelativeToolTip": "BankSystemc#\\Homepage.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvysAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:11:14.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Login.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Login.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\Login.cs",
+              "RelativeToolTip": "BankSystemc#\\Login.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:03:59.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ONEtps.cs",
+              "DocumentMoniker": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\ONEtps.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\ONEtps.cs",
+              "ToolTip": "D:\\ban2c#\\BankSystemc#\\BankSystemc#\\ONEtps.cs",
+              "RelativeToolTip": "BankSystemc#\\ONEtps.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwEIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:39:36.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
